@@ -1,2 +1,2 @@
 # Hello-World
-My first Repository
+This is Prateek's first repo.
